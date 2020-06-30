@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1142061540158790676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1142061540158790672}
+  - component: {fileID: 1142061540158790678}
+  - component: {fileID: 1142061540158790677}
+  - component: {fileID: 1142061540158790679}
+  m_Layer: 0
+  m_Name: SystemObj
+  m_TagString: SystemObject
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1142061540158790672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142061540158790676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1142061540158790678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142061540158790676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb850894f0baf6343b3f1b2eba104062, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  refObj: {fileID: 0}
+  location: {fileID: 0}
+  pointRadius: 2.5
+  locationName: 
+  debugMode: 0
+--- !u!114 &1142061540158790677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142061540158790676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fdc8c46705229946845c48c8d87a1d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  painterGroups:
+  - {fileID: 0}
+  currentGroup: {fileID: 0}
+  bibSortIndex: 0
+  soloObjectIndex: 0
+  paintLayer: 8
+--- !u!114 &1142061540158790679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142061540158790676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423b1bf633d21c543a56da54bf44975f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groupObjects:
+  - {fileID: 0}
+  selectedIndex: 0
