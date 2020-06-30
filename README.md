@@ -196,9 +196,15 @@ including writing all the manuals and making video tutorials.
 - a fully working user interface
   
 ## Donations / Crowd funding
-A minimum amount of 400 dollars is required for one full time developer and 2 to 3 part time developers and for other important 
-aspects such as hiring concept artists.
-Minimun amount gathered can be monitored through the bottom bar.
+I have past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
+the tool set to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
+This project will also cost some part time developers as well, 
+
+*Initially I would require a humble amount of **1000$ US Dollars**, donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards.*
+*Benefits of contributing will be*
+
+1. Access to Proprietary tools.
+2. On demand tools
 
 Contact me at.
 ObaidurRehman164@gmail.com
