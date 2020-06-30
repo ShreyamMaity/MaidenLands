@@ -159,31 +159,39 @@ Plan to finish off complete coding part of the game and world building is about 
 ## MileStones and initial world building
 1. The initial world will be built as soon as possible, it will be completly working game with all the necessary systems, it will include the following
 
-- **_(First month)_---> player mechanics such as** 
+As you can see from the above repo I have briefly touched most important game system already including AI and Foilage system however in order to make then performance friendly 
+and optimized it will take one month per each system.
+
+- **_(Month 1)_---> vegetation and foilage system** 
+since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
+system are almost complete however in order to make the vegetation system performance friendly as well, it will take time, I plan to give it a full complete month,
+including writing all the manuals and making video tutorials. 
+
+- **_(Month 2)_---> player mechanics such as** 
   - character controllers
   - inventory system
   - crafting system
   - item loot system
   - dialogue system
   
-- **_(Second month)_---> developer tools to allow gamers/other developers to rapidly start creating in game content, initial developer tools will be**
+- **_(Month 3)_---> developer tools to allow gamers/other developers to rapidly start creating in game content, initial developer tools will be**
   - quest editor
   - story editor
   - tools to create and design levels such villages and towns
   - tools to add AI 
   
-- **_(Third month)_---> a 32 km square playable landscape/terrain with all details(from grasses, trees, rocks, rivers, mountains etc)**
+- **_(Month 4)_---> a 32 km square playable landscape/terrain with all details(from grasses, trees, rocks, rivers, mountains etc)**
 
-- **_(Fourth month)_---> game mechanics such as**
+- **_(Month 5)_---> game mechanics such as**
   - dynamic time of day
   - dynamic weather system
   - save/load 
   - etc
   
-- **_(Fifth month)_---> video tutorials & fine tuning previous steps**
+- **_(Month 6)_---> video tutorials & fine tuning previous steps**
   - video demostration by developers of various tools
   
-- **_(Sixth month)_---> fine tuning previous steps**
+- **_(Month 7)_---> fine tuning previous steps**
   
 - a fully working user interface
   
