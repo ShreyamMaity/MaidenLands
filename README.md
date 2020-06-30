@@ -203,8 +203,15 @@ This project will also cost some part time developers as well,
 *Initially I would require a humble amount of **1000$ US Dollars**, donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards.*
 *Benefits of contributing will be*
 
-1. Access to Proprietary tools.
-2. On demand tools
+1. Access to Proprietary tools ( AI, Story editor and Quest editor ).
+2. On demand tools.
+3. On demand game mechanics.
 
-Contact me at.
+**donations can be made by direct bank deposists**
+
+**or by becoming a patreon**
+
+**a kick starter campaign is soon comming.....**
+
+Contacts.
 ObaidurRehman164@gmail.com
