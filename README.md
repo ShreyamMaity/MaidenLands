@@ -115,6 +115,12 @@ possible.
  <img src="Resources/foilageArea.png" width="1366" height="768"/>
  <img src="Resources/geoPaint.png" width="1366" height="768"/>
  
+ *video demostrations of above mentioned tools*
+ 
+ https://www.youtube.com/watch?v=hBmHCbm6R_s
+ https://www.youtube.com/watch?v=zgq6685nBd0
+ https://www.youtube.com/watch?v=TtYiDVQB7jc
+ 
 ## AI
 1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters(NPCs), decision making, the actual implementation of algorithm will be based on GOAP algorithm mentioned in this book
 https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782.
