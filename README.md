@@ -9,7 +9,7 @@ Developers or gamers will be provided with especially developed tools that will 
 For those who just want to enjoy the world will be able to download the game for free. 
 Since the game is open source, funding for the development of this game will be done primarily through donations and revenue generated through crowd funding.
 
-<img src="Resources/Images/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="800" height="600"/>
+<img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="800" height="600"/>
 
 *__Please note that this is the first iteration of this document, mistakes or incomplete details are expected__*.
 *__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page*__
@@ -53,7 +53,7 @@ will be created, so they won't have to reinvent the wheel everytime on their nex
 1. The game will have realistic art style in terms of terrain, vegetation, characters and other assets, the best example for this game's *__art style, lightning, mood and atmosphere is Remedy Entertainment's Alan wake.__*
 Although this game is medieval themed and open world opposed to Alan wake however we can still use the art style, mood, lightning refrence of Alan wake, *__Alan wake provides a good exagratted day, evening, night time lightning and mood examples.__*
 
-<img src="Resources/Images/Art direction/01.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/02.png" width="300" height="300"/> <img src="Resources/Images/Art direction/03.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/04.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/05.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/06.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/07.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/08.jpg" width="300" height="300"/> <img src="Resources/Images/Art direction/09.jpg" width="300" height="300"/>
+<img src="Resources/Art direction/01.jpg" width="300" height="300"/> <img src="Resources/Art direction/02.png" width="300" height="300"/> <img src="Resources/Art direction/03.jpg" width="300" height="300"/> <img src="Resources/Art direction/04.jpg" width="300" height="300"/> <img src="Resources/Art direction/05.jpg" width="300" height="300"/> <img src="Resources/Art direction/06.jpg" width="300" height="300"/> <img src="Resources/Art direction/07.jpg" width="300" height="300"/> <img src="Resources/Art direction/08.jpg" width="300" height="300"/> <img src="Resources/Art direction/09.jpg" width="300" height="300"/>
 
 2. Initial vegetation assets, terrain/landscapes will be created by development team.
 3. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store publisher DEXSOFT-Games https://assetstore.unity.com/publishers/15, asset packs such as 
@@ -64,7 +64,7 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 4. Programming will be completly done from scratch by the development team.
 5. The world of "Maiden Land" is divided into two continents, and will have diverse landscapes features ranging from vast grass lands to snow covered montains, rivers and dense forests. In order to keep things constant and in harmony in terms of vegetation that grows in this land and physical features, the landscape of Russian is chosen.
 
-<img src="Resources/Images/Landscape/01.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/02.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/03.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/04.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/05.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/06.jpg" width="300" height="300"/>
+<img src="Resources/Landscape/01.jpg" width="300" height="300"/> <img src="Resources/Landscape/02.jpg" width="300" height="300"/> <img src="Resources/Landscape/03.jpg" width="300" height="300"/> <img src="Resources/Landscape/04.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/05.jpg" width="300" height="300"/> <img src="Resources/Landscape/06.jpg" width="300" height="300"/>
   
 ## Gameplay and game mechanics overview
 1. The game is an open world RPG(Role playing game) played from third person point of view.
