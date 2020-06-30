@@ -64,7 +64,7 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 4. Programming will be completly done from scratch by the development team.
 5. The world of "Maiden Land" is divided into two continents, and will have diverse landscapes features ranging from vast grass lands to snow covered montains, rivers and dense forests. In order to keep things constant and in harmony in terms of vegetation that grows in this land and physical features, the landscape of Russian is chosen.
 
-<img src="Resources/Landscape/01.jpg" width="300" height="300"/> <img src="Resources/Landscape/02.jpg" width="300" height="300"/> <img src="Resources/Landscape/03.jpg" width="300" height="300"/> <img src="Resources/Landscape/04.jpg" width="300" height="300"/> <img src="Resources/Images/Landscape/05.jpg" width="300" height="300"/> <img src="Resources/Landscape/06.jpg" width="300" height="300"/>
+<img src="Resources/Landscape/01.jpg" width="300" height="300"/> <img src="Resources/Landscape/02.jpg" width="300" height="300"/> <img src="Resources/Landscape/03.jpg" width="300" height="300"/> <img src="Resources/Landscape/04.jpg" width="300" height="300"/> <img src="Resources/Landscape/05.jpg" width="300" height="300"/> <img src="Resources/Landscape/06.jpg" width="300" height="300"/>
   
 ## Gameplay and game mechanics overview
 1. The game is an open world RPG(Role playing game) played from third person point of view.
