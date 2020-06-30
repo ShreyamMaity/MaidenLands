@@ -153,8 +153,8 @@ https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/155622
 
 ## Quest Editor 
 We have big expectations in terms of "quests" for "Maiden Lands".
-"__The quests will be 100% non-linear and can be completed in any more then one way__", this statement needs more elaboration.
-To understand this let us first define the definition of a quest, *__principally a quest is anything that require the change in state of world__*.
+"__The quests will be 100% non-linear and can be completed in any more then one way__", quests will drive the story forward.
+(More info comming soon).
 
 ## Timeline
 Plan to finish off complete coding part of the game and world building is about 6 months, starting from **6/1/2020**, provided that the desired funding for the project is recieved. It will include 
@@ -216,8 +216,8 @@ This project will also cost some part time developers as well,
 3. On demand game mechanics.
 
 **using western union**
-National ID card number: 37101-72696441
-Mobile/Cell phone number: +923342900636
+1. National ID card number: 37101-72696441.
+2. Mobile/Cell phone number: +923342900636.
 
 **donations can be made by direct bank deposists (comming in first week of July)**
 
