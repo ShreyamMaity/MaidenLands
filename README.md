@@ -215,7 +215,9 @@ This project will also cost some part time developers as well,
 2. On demand tools.
 3. On demand game mechanics.
 
-**donations can be made by direct bank deposists**
+**donations can be made by direct bank deposist**
+
+
 
 **or by becoming a patreon**
 
@@ -223,3 +225,4 @@ This project will also cost some part time developers as well,
 
 Contacts.
 ObaidurRehman164@gmail.com
+https://www.facebook.com/obaid.rehman.1044/
