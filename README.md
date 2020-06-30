@@ -224,5 +224,5 @@ This project will also cost some part time developers as well,
 **a kick starter campaign is soon comming.....**
 
 Contacts.
-ObaidurRehman164@gmail.com
-https://www.facebook.com/obaid.rehman.1044/
+1. ObaidurRehman164@gmail.com.
+2. https://www.facebook.com/obaid.rehman.1044/.
