@@ -111,7 +111,9 @@ possible.
  *although these tools are included in this repository, please keep in mind, that these tools are are not perfect yet, they are young and rough and need further,
  improvements, which is something I am working on*
  
- <img src="Resources/grassClump.png" width="600" height="800"/>
+ <img src="Resources/grassClump.png" width="1366" height="768"/>
+ <img src="Resources/foilageArea.png" width="1366" height="768"/>
+ <img src="Resources/geoPaint.png" width="1366" height="768"/>
  
 ## AI
 1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters(NPCs), decision making, the actual implementation of algorithm will be based on GOAP algorithm mentioned in this book
