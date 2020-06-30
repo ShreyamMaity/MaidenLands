@@ -117,9 +117,9 @@ possible.
  
  *video demostrations of above mentioned tools*
  
- https://www.youtube.com/watch?v=hBmHCbm6R_s.
- https://www.youtube.com/watch?v=zgq6685nBd0.
- https://www.youtube.com/watch?v=TtYiDVQB7jc.
+ 1. https://www.youtube.com/watch?v=hBmHCbm6R_s.
+ 2. https://www.youtube.com/watch?v=zgq6685nBd0.
+ 3. https://www.youtube.com/watch?v=TtYiDVQB7jc.
  
 ## AI
 1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters(NPCs), decision making, the actual implementation of algorithm will be based on GOAP algorithm mentioned in this book
