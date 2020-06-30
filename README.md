@@ -225,6 +225,9 @@ This project will also cost some part time developers as well,
 
 **a kick starter campaign (comming in first week of July)**
 
+*for any query / question contact me directly*
+
 Contacts.
 1. ObaidurRehman164@gmail.com.
 2. https://www.facebook.com/obaid.rehman.1044/.
+3. whatsapp +923342900636 
