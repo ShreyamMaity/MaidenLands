@@ -215,13 +215,15 @@ This project will also cost some part time developers as well,
 2. On demand tools.
 3. On demand game mechanics.
 
-**donations can be made by direct bank deposist**
+**using western union**
+National ID card number: 37101-72696441
+Mobile/Cell phone number: +923342900636
 
+**donations can be made by direct bank deposists (comming in first week of July)**
 
+**or by becoming a patreon (comming in first week of July)**
 
-**or by becoming a patreon**
-
-**a kick starter campaign is soon comming.....**
+**a kick starter campaign (comming in first week of July)**
 
 Contacts.
 1. ObaidurRehman164@gmail.com.
