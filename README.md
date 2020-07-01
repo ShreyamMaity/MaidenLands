@@ -216,12 +216,14 @@ This project will also cost some part time developers as well,
 3. On demand game mechanics.
 
 **using western union**
-1. National ID card number: 37101-72696441.
-2. Mobile/Cell phone number: +923342900636.
+1. National ID card number: 32203-0191179-8.
+2. Mobile/Cell phone number: +923430285008.
 
-**donations can be made by direct bank deposists (comming in first week of July)**
+**donations can be made by direct bank deposists**
+PK69BKIP0303400180820001
 
-**or by becoming a patreon (comming in first week of July)**
+**or by becoming a patreon**
+https://www.patreon.com/MaidenLands
 
 **a kick starter campaign (comming in first week of July)**
 
