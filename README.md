@@ -226,12 +226,18 @@ including writing all the manuals and making video tutorials.
 - a fully working user interface
   
 ## Donations / Crowd funding
-I have past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
-the tool set to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
+I have spend past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
+the tool sets and framework to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
 This project will also cost some part time developers as well, 
 
-*Initially I would require a humble amount of **1000$ US Dollars**, donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards.*
-*Benefits of contributing will be*
+*Initially I would require an upfront amount of **5000$ US Dollars**, for various purposes such as 
+
+1. centralize office.
+2. hiring developers and artists.
+3. paying part time developers.
+4. for utility bills, etc.
+
+donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
 
 1. Access to Proprietary tools ( AI, Story editor and Quest editor ).
 2. On demand tools.
@@ -246,13 +252,18 @@ This project will also cost some part time developers as well,
 2. Swift code: BKIPPKKA.
 
 **or by becoming a patreon**
-https://www.patreon.com/MaidenLands
+https://www.patreon.com/MaidenLands.
 
-**a kick starter campaign (comming in first week of July)**
+**a kick starter campaign (comming in second week of July)**.
+
+**an official facebook page (coming soon)**.
+
+**official twitter account (coming soon)**.
+
 
 *for any query / question contact me directly*
-
 Contacts.
+
 1. ObaidurRehman164@gmail.com.
 2. https://www.facebook.com/obaid.rehman.1044/.
 3. whatsapp +923430285008 
