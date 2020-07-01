@@ -51,6 +51,11 @@ invloved in development. This is an overview of development steps in order of th
 3. **Phase-3** 
 - Since most programming tasks are completed till this phase, this phase will deal with art work and actual level design of game world.
 - artists already working and more will be hired if necessary for creating the landmarks locations, landscape and other 3d environments.
+- lightning of game world and environments
+- setting mood and background setting 
+
+4. **Phase-4**
+- 
 
 
 ## How will this help you ?
