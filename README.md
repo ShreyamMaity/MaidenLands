@@ -35,12 +35,17 @@ Cross bows and gun powder.
 Since this project is open source ***project development plan of action*** should be available to all contributors, and development work should be trackable for all personnel
 invloved in development. This is an overview of development steps in order of their execution, however the timeline for development stages are described below in a seperate section of their own in "MileStones and initial world building".
 
-1. **Phase-1** 
+1. **Phase-1**
 - Development of a foilage / vegetation system. (already in progress)
 - hiring concept artists for creating an art direction for "MaidenLands".
 
-2. **Phase-2** 
-- Developing AI Systems, decision making systems for non player characters
+2. **Phase-2**
+- Creating a robust player controller.
+- Developing other character systems such as character inventory, crafting, item loot and skill reward systems.
+- Developing AI Systems; decision making, navigation, and sensory for non player characters (NPCs) (already in progress).
+- Developing other necessary game systems such as dialogue system, save/load system etc.
+
+3. **Phase-2** 
 
 
 ## How will this help you ?
