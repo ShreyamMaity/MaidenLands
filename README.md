@@ -30,6 +30,18 @@ Cross bows and gun powder.
  - rigging
  - environment art and
  - character art, in a beautiful world where they can bring and visualize their creations to life with intelligent NPCs, dynamic day night cycles, dynamic weather conditions etc.
+ 
+## Plan of Action
+Since this project is open source ***project development plan of action*** should be available to all contributors, and development work should be trackable for all personnel
+invloved in development. This is an overview of development steps in order of their execution, however the timeline for development stages are described below in a seperate section of their own in "MileStones and initial world building".
+
+1. **Phase-1** 
+- Development of a foilage / vegetation system. (already in progress)
+- hiring concept artists for creating an art direction for "MaidenLands".
+
+2. **Phase-2** 
+- Developing AI Systems, decision making systems for non player characters
+
 
 ## How will this help you ?
 Even if you are not interested in the world of this game, you can still benefit from it's development.
@@ -56,7 +68,7 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 <img src="Resources/Art direction/01.jpg" width="300" height="300"/> <img src="Resources/Art direction/02.png" width="300" height="300"/> <img src="Resources/Art direction/03.jpg" width="300" height="300"/> <img src="Resources/Art direction/04.jpg" width="300" height="300"/> <img src="Resources/Art direction/05.jpg" width="300" height="300"/> <img src="Resources/Art direction/06.jpg" width="300" height="300"/> <img src="Resources/Art direction/07.jpg" width="300" height="300"/> <img src="Resources/Art direction/08.jpg" width="300" height="300"/> <img src="Resources/Art direction/09.jpg" width="300" height="300"/>
 
 2. Initial vegetation assets, terrain/landscapes will be created by development team.
-3. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store publisher DEXSOFT-Games https://assetstore.unity.com/publishers/15, asset packs such as 
+3. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store publisher DEXSOFT-Games https://assetstore.unity.com/publishers/15, asset packs such as.
 
  - https://assetstore.unity.com/packages/3d/environments/historic/medieval-castle-model-7601.
  - https://assetstore.unity.com/packages/3d/environments/fantasy/viking-village-13921.
