@@ -39,12 +39,14 @@ invloved in development. This is an overview of development steps in order of th
 - Development of a foilage / vegetation system. (already in progress)
 - hiring concept artists for creating an art direction for "MaidenLands".
 - creating an art direction for game.
+- creating a background story, setting and theme for "Maiden Lands"
 
 2. **Phase-2**
 - Creating a robust player controller.
 - Developing other character systems such as character inventory, crafting, item loot and skill reward systems.
 - Developing AI Systems; decision making, navigation, and sensory for non player characters (NPCs) (already in progress).
-- Developing other necessary game systems such as dialogue system, save/load system etc.
+- Developing other necessary game systems such as dialogue system, quest, story editor and save/load systems etc
+- Developing tools to allow contents created by users to be exported, for purchase or for free
 - Art assets such as 3d environments and animations will be evaluated and purchased from unity asset store at this stage.
 - On art side further progress will be made on creating and planning layouts of game level design in terms of terrain / landscapes and in terms of cities layout and design.
 
@@ -52,10 +54,14 @@ invloved in development. This is an overview of development steps in order of th
 - Since most programming tasks are completed till this phase, this phase will deal with art work and actual level design of game world.
 - artists already working and more will be hired if necessary for creating the landmarks locations, landscape and other 3d environments.
 - lightning of game world and environments
-- setting mood and background setting 
+- setting mood and background story according to theme and story of "Maiden Lands"
+- game systems developed in phases 1 and 2 will be combined and tested
+- testing and making game ready
 
 4. **Phase-4**
-- 
+- at this stage "Maiden Lands" will be released to general public and gamers, with all necessary tools and systems to allow users to start creating stories, or 
+environments
+- core development team will now work on creating the main storyline for this game, which will be released on steam.
 
 
 ## How will this help you ?
