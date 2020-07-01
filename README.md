@@ -36,7 +36,7 @@ Since this project is open source ***project development plan of action*** shoul
 invloved in development. This is an overview of development steps in order of their execution, however the timeline for development stages are described below in a seperate section of their own in "MileStones and initial world building".
 
 1. **Phase-1**
-- Development of a foilage / vegetation system. (already in progress)
+- Development of a foilage / vegetation system. (already in progress).
 - hiring concept artists for creating an art direction for "MaidenLands".
 - creating an art direction for game.
 - creating a background story, setting and theme for "Maiden Lands"
@@ -45,42 +45,30 @@ invloved in development. This is an overview of development steps in order of th
 - Creating a robust player controller.
 - Developing other character systems such as character inventory, crafting, item loot and skill reward systems.
 - Developing AI Systems; decision making, navigation, and sensory for non player characters (NPCs) (already in progress).
-- Developing other necessary game systems such as dialogue system, quest, story editor and save/load systems etc
-- Developing tools to allow contents created by users to be exported, for purchase or for free
+- Developing other necessary game systems such as dialogue system, quest, story editor and save/load systems etc.
+- Developing tools to allow contents created by users to be exported, for purchase or for free.
 - Art assets such as 3d environments and animations will be evaluated and purchased from unity asset store at this stage.
 - On art side further progress will be made on creating and planning layouts of game level design in terms of terrain / landscapes and in terms of cities layout and design.
 
 3. **Phase-3** 
 - Since most programming tasks are completed till this phase, this phase will deal with art work and actual level design of game world.
 - artists already working and more will be hired if necessary for creating the landmarks locations, landscape and other 3d environments.
-- lightning of game world and environments
-- setting mood and background story according to theme and story of "Maiden Lands"
-- game systems developed in phases 1 and 2 will be combined and tested
-- testing and making game ready
+- lightning of game world and environments.
+- setting mood and background story according to theme and story of "Maiden Lands".
+- game systems developed in phases 1 and 2 will be combined and tested.
+- testing and making game ready.
 
 4. **Phase-4**
 - at this stage "Maiden Lands" will be released to general public and gamers, with all necessary tools and systems to allow users to start creating stories, or 
-environments
+environments.
 - core development team will now work on creating the main storyline for this game, which will be released on steam.
-
 
 ## How will this help you ?
 Even if you are not interested in the world of this game, you can still benefit from it's development.
 
-1. For freelancers, artists and less experienced programmers, a mature/stable and tested unity framework for various game systems such as
- - save/load system
- - character inventory/crafting/item loot system
- - character stats system
- - camera systems( e.g collision handling, proper physics )
- - dialogue system
- - skill/reward system
- - AI algorithms and
- - much more
-will be created, so they won't have to reinvent the wheel everytime on their next freelance project hence increasing productivity.
-2. Start-ups and smaller companies with less technical staff working on their next game will be able to cut-short tonnes of precious development time and by just cloning this repository and get a mature framework being mentained by open source community, thus saving time and budget.
-3. If nothing else matters for you, you can still bring your imaginations to life by creating your own stories, quests, characters, villages and towns or other's and *get lost in there for a while.*
-4. Developers will get their part of budget, collected through donations and crowd-funding, depending upon the amount of contributions they will made.
-5. Users who will create stories, quests, levels(towns, villages etc) and assets(environment art, animations, characters) will be able to sell them on through market and merchants in the game world.
+1. Apart from a complete game, the goal of this project will be to develop a ***plug and play robust and complete game development framework for unity*** which will benefit anyone looking to develop their own game using unity as well as freelancers, small independent studios and start-ups, by providing them battle tested tools.
+2. Users how will contribute will their part of budget share, collected through donations and crowd-funding, (amount will base on a certain criteria).
+3. Users who will create stories, quests, environments (environment art, animations, characters, levels) will be able to sell them on through market and merchants in the game world.
 
 ## Art style & Concept art 
 1. The game will have realistic art style in terms of terrain, vegetation, characters and other assets, the best example for this game's *__art style, lightning, mood and atmosphere is Remedy Entertainment's Alan wake.__*
@@ -104,6 +92,7 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 2. The main focus of the game world will not necessary be combat instead it will be story telling, immersion in the game world,
 beautiful level designs and vistas however combat will still be an essential part of this game.
 3. Game will feature limited but well crafted game play mechanics such as.
+
 - *inventory system*
 - *crafting system*
 - *branching dilogue system*
@@ -111,7 +100,7 @@ beautiful level designs and vistas however combat will still be an essential par
 - *dynamic day/night cycle*
 - *intelligent NPCs*
 - *exploration*
-- *various interactions in game world*
+- *lot of interactions in game world*
 
 ## Technical details overview
 ## World
