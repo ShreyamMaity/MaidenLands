@@ -252,17 +252,18 @@ donations can be made using direct bank deposit or by becoming a patreon, both w
 2. Swift code: BKIPPKKA.
 
 **--> or by becoming a patreon**.
-1. https://www.patreon.com/MaidenLands.
+- https://www.patreon.com/MaidenLands.
 
 **--> a kick starter campaign (comming in second week of July)**.
 
 **--> an official facebook page (coming soon)**.
 
 **--> official twitter account (coming soon)**.
-.
-.
-.
-.
+-
+-
+-
+-
+-
 *for any query / question contact me directly*
 Contacts.
 
