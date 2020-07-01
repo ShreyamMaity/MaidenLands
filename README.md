@@ -234,7 +234,7 @@ Initially I would require an immediate upfront amount of **500 US Dollars**, for
 
 1. Promotional and advertising art work and video for MaidenLands.
 
-*First short term amount, upfront amount of **5000$ US Dollars**, for various purposes such as 
+First short term amount, upfront amount of **5000$ US Dollars**, for various purposes such as 
 
 1. centralize office.
 2. hiring developers and artists.
