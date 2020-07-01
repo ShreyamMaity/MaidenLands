@@ -221,7 +221,7 @@ This project will also cost some part time developers as well,
 
 **donations can be made by direct bank deposists**
 1. Account number: PK69BKIP0303400180820001.
-2. Swift code: .
+2. Swift code: BKIPPKKA.
 
 **or by becoming a patreon**
 https://www.patreon.com/MaidenLands
