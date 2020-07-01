@@ -220,7 +220,8 @@ This project will also cost some part time developers as well,
 2. Mobile/Cell phone number: +923430285008.
 
 **donations can be made by direct bank deposists**
-PK69BKIP0303400180820001
+1. Account number: PK69BKIP0303400180820001.
+2. Swift code: .
 
 **or by becoming a patreon**
 https://www.patreon.com/MaidenLands
