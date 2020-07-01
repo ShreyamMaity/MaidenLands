@@ -243,22 +243,23 @@ donations can be made using direct bank deposit or by becoming a patreon, both w
 2. On demand tools.
 3. On demand game mechanics.
 
-**using western union**
+**--> using western union**
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
-**donations can be made by direct bank deposists**
+**--> donations can be made by direct bank deposists**.
 1. Account number: PK69BKIP0303400180820001.
 2. Swift code: BKIPPKKA.
 
-**or by becoming a patreon**
+**--> or by becoming a patreon**.
 https://www.patreon.com/MaidenLands.
 
-**a kick starter campaign (comming in second week of July)**.
+**--> a kick starter campaign (comming in second week of July)**.
 
-**an official facebook page (coming soon)**.
+**--> an official facebook page (coming soon)**.
 
-**official twitter account (coming soon)**.
+**--> official twitter account (coming soon)**.
+
 
 
 *for any query / question contact me directly*
