@@ -38,14 +38,19 @@ invloved in development. This is an overview of development steps in order of th
 1. **Phase-1**
 - Development of a foilage / vegetation system. (already in progress)
 - hiring concept artists for creating an art direction for "MaidenLands".
+- creating an art direction for game.
 
 2. **Phase-2**
 - Creating a robust player controller.
 - Developing other character systems such as character inventory, crafting, item loot and skill reward systems.
 - Developing AI Systems; decision making, navigation, and sensory for non player characters (NPCs) (already in progress).
 - Developing other necessary game systems such as dialogue system, save/load system etc.
+- Art assets such as 3d environments and animations will be evaluated and purchased from unity asset store at this stage.
+- On art side further progress will be made on creating and planning layouts of game level design in terms of terrain / landscapes and in terms of cities layout and design.
 
-3. **Phase-2** 
+3. **Phase-3** 
+- Since most programming tasks are completed till this phase, this phase will deal with art work and actual level design of game world.
+- artists already working and more will be hired if necessary for creating the landmarks locations, landscape and other 3d environments.
 
 
 ## How will this help you ?
