@@ -241,7 +241,7 @@ First short term amount, upfront amount of **5000$ US Dollars**, for various pur
 3. paying part time developers.
 4. for utility bills, etc.
 
-donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
+Donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
 
 1. Access to Proprietary tools ( AI, Story editor and Quest editor ).
 2. On demand tools.
