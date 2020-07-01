@@ -259,11 +259,11 @@ donations can be made using direct bank deposit or by becoming a patreon, both w
 **--> an official facebook page (coming soon)**.
 
 **--> official twitter account (coming soon)**.
--
--
--
--
--
+ .
+ .
+ .
+ .
+ .
 *for any query / question contact me directly*
 Contacts.
 
